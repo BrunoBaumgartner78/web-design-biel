@@ -14,7 +14,6 @@ import PricingMenu from './components/cards';
 import Footer from './components/footer';
 import PhotoCarousel from './components/photoCarousel';
 import LazySection from './components/lasy';
-import VideoPreview from './components/video';
 import PricingMenu0 from './components/cards0';
 
 
@@ -35,7 +34,7 @@ export default function Page() {
       <h2>Exzellentes Web Design in JavaScript, React.js und Next.js</h2>
       <p>Erfahre hier mehr über unseren Service.</p>
     </div>
-    <VideoPreview />
+ 
       <section style={{ height: 'fit-content' }}>
      
       <div className="flex">
