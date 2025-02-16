@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import "../src/app/styles/agb.css";
+import "../styles/agb.css";
 import Menu from "@/app/components/menu";
 
 const AGB = () => {
