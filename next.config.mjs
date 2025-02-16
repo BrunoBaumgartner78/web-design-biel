@@ -9,10 +9,10 @@ const nextConfig = {
         has: [
           {
             type: "host",
-            value: "myiq.ch",
+            value: "bellu.ch",
           },
         ],
-        destination: "https://www.myiq.ch/:path*",
+        destination: "https://www.bellu.ch/:path*",
         permanent: true,
       },
     ];

@@ -6,7 +6,7 @@ const GoogleAnalytics = () => {
   useEffect(() => {
     // Warten, bis das Skript geladen ist
     const script = document.createElement("script");
-    script.src = "https://www.googletagmanager.com/gtag/js?id=G-EEJBFQ67C0";
+    script.src = "https://www.googletagmanager.com/gtag/js?id=G-V64C9R1260";
     script.async = true;
     script.onload = () => {
       // Initialisieren des Google Analytics Tracking Codes
@@ -15,7 +15,7 @@ const GoogleAnalytics = () => {
         window.dataLayer.push(arguments);
       }
       gtag("js", new Date());
-      gtag("config", "G-EEJBFQ67C0");
+      gtag("config", "G-V64C9R1260");
     };
     document.head.appendChild(script);
 
