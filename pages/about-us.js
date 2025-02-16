@@ -4,8 +4,8 @@ import React from 'react';
 import CookieBanner from '@/app/components/cookieBanner';
 import Menu from '@/app/components/menu';
 import PhotoCarousel0 from '@/app/components/photoCaruselA';
-import '../../app/styles/global.css';
-import '../../app/styles/home.css';
+import '../../src/app/styles/global.css';
+import '../../src/app/styles/home.css';
 import '../../src/app/styles/print.css';
 
 const AboutUs = () => {

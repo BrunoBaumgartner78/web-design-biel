@@ -2,9 +2,9 @@ import React from 'react';
 import CookieBanner from '../src/app/components/cookieBanner';
 import Menu from '@/app/components/menu';
 import '../../src/app/styles/portfolio.css';
-import '../..//src/app/styles/global.css';
-import '../..//src/app/styles/home.css'; // CSS-Datei für das Portfolio-Styling
-import '../..//src/app/styles/menu.css';
+import '../../src/app/styles/global.css';
+import '../../src/app/styles/home.css'; // CSS-Datei für das Portfolio-Styling
+import '../../src/app/styles/menu.css';
 import '../../src/app/styles/print.css';
 
 

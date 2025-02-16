@@ -1,6 +1,6 @@
 'use client';
 import React from 'react';
-import '../../app/styles/blogPost.css';
+import '../../src/app/styles/blogpost.css';
 import '../../src/app/styles/print.css';
 const DesignThinkingPost = () => {
   return (
