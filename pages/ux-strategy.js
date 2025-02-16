@@ -1,6 +1,6 @@
 'use client';
 import React from 'react';
-import CookieBanner from '@/src/app/components/cookieBanner';
+import CookieBanner from '../src/app/components/cookieBanner';
 import Menu from '@/app/components/menu';
 import PhotoCarousel0 from '@/app/components/photoCaruselA';
 import '../src/app/styles/global.css';
