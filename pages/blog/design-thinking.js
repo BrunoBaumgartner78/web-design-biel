@@ -1,7 +1,7 @@
 'use client';
 import React from 'react';
-import '../../src/app/styles/blogpost.css';
-import '../../src/app/styles/print.css';
+import '../src/app/styles/blogpost.css';
+import '../src/app/styles/print.css';
 const DesignThinkingPost = () => {
   return (
     <section className="blogpost-section">
