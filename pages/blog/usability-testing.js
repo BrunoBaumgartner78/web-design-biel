@@ -1,7 +1,7 @@
 'use client';
 import React from 'react';
-import '../app/styles/blogPost.css';
-import '../src/app/styles/print.css';
+import '../../src/app/styles/blogPost.css';
+import '../../src/app/styles/print.css';
 
 const MobileFirstPost = () => {
   return (
