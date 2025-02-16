@@ -1,8 +1,8 @@
 'use client';
 import React from 'react';
-import '@/src/app/styles/blog.css';
+import '../../src/app/styles/blog.css';
 import CookieBanner from '@/app/components/cookieBanner';
-import '@/src/app/styles/print.css';
+import '../../src/app/styles/print.css';
 
 const Blog = () => {
   const blogPosts = [
