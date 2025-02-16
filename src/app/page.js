@@ -15,6 +15,7 @@ import Footer from './components/footer';
 import PhotoCarousel from './components/photoCarousel';
 import LazySection from './components/lasy';
 import PricingMenu0 from './components/cards0';
+import CookieBanner from './components/cookieBanner';
 
 
 export default function Page() {
@@ -34,7 +35,7 @@ export default function Page() {
       <h2>Exzellentes Web Design in JavaScript, React.js und Next.js</h2>
       <p>Erfahre hier mehr über unseren Service.</p>
     </div>
- 
+    <CookieBanner/>
       <section style={{ height: 'fit-content' }}>
      
       <div className="flex">
@@ -414,9 +415,9 @@ Baumgartner Development – Webdesign in Biel mit modernsten Technologien.</p>
    </div>
   <h2>Als geschützte Werkstatt unterstützen wir:</h2>   
    <PhotoCarousel/>
-    
+   </LazySection>
       <Footer />
-      </LazySection>
+      
       </main>
   </div>
   

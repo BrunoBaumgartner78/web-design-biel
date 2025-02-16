@@ -6,6 +6,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    z-index: 900;
   }
   
   /* Video-Hintergrund */
@@ -31,7 +32,7 @@
     display: flex;
     gap: 20px;
     position: relative;
-    z-index: 1;
+    z-index: 900;
   }
   
   .footer-card {
@@ -48,6 +49,7 @@
     transition: transform 0.3s ease-out;
     width: 15em;
     font-family: Arial, Helvetica, sans-serif;
+    z-index: 900;
   }
   
   /* Parallax Effekt */
