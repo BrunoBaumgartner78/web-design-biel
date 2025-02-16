@@ -1,9 +1,9 @@
 import React from "react";
-import '../src/app/styles/global.css';
-import "../src/app/styles/contact.css"; // Externe CSS-Datei für sauberen Code
-import '../src/app/styles/card.css';
-import '../src/app/styles/photoCarousel.css';
-import '../src/app/styles/print.css';
+import '@/src/app/styles/global.css';
+import "@/src/app/styles/contact.css"; // Externe CSS-Datei für sauberen Code
+import '@/src/app/styles/card.css';
+import '@/src/app/styles/photoCarousel.css';
+import '@/src/app/styles/print.css';
 import Fireflies from "@/app/components/firefly";
 import Header from "@/app/components/header";
 import Footer from "@/app/components/footer";
