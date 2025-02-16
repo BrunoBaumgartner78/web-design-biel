@@ -1,0 +1,31 @@
+.fires-overlay {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 1000;
+  overflow: hidden; 
+}
+
+.firefly {
+  position: relative;
+  background-color: orange;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(255, 140, 0, 0.8);
+  opacity: 0.8;
+  animation: flicker 1s infinite alternate, rise linear infinite;
+}
+
+@keyframes flicker {
+  0% { opacity: 0.6; transform: scale(1); }
+  100% { opacity: 1; transform: scale(1.3); }
+}
+
+@keyframes rise {
+  0% { transform: translateY(100vh); opacity: 0.9; }  /* Startet am unteren Rand */
+  100% { transform: translateY(-10vh); opacity: 0; }  /* Steigt über den oberen Rand hinaus */
+}

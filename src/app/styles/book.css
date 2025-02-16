@@ -1,0 +1,64 @@
+body{
+    background-color:#1e1e1e;
+}
+.book-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #121212;
+    color: #ffffff;
+    padding: 20px;
+  }
+  
+  .book {
+    background: #1e1e1e;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+  }
+  
+  .book-image {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+  }
+  
+  .buy-button {
+    display: inline-block;
+    background: #ff9800;
+    color: #121212;
+    padding: 10px 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .buy-button:hover {
+    background: #e68900;
+  }
+
+  /* Scrollbalken - für Webkit-Browser (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #2d2d2d;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    border-radius: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(to right, #feb47b, #ff7e5f);
+  }
+  

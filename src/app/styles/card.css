@@ -1,0 +1,64 @@
+.pricing-container {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+  }
+  
+  .pricing-card {
+    background: rgba(253, 253, 253, 0.05); /* Schwarz mit 95% Transparenz */
+    backdrop-filter: blur(10px); /* Weicher Blur-Effekt */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    width: 27%;
+  }
+  
+  .pricing-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .pricing-card h2 {
+    color: #ffffff;
+  }
+  
+  .price {
+    font-size: 18px;
+    font-weight: bold;
+    color: orange;
+  }
+  
+  .lease {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ff5733;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    padding: 5px 0;
+  }
+  
+  button {
+    background: orange;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+   
+  }
+  
+  @media screen and (max-width: 600px) {
+    .pricing-container{
+      flex-direction: column;
+    }
+  }
+  

@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+
+.homepage {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: fit-content;
+    width: 100%;
+    text-align: center;
+    color: white;
+    overflow: hidden;
+   
+  }
+  
+  .background-img {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 800px;
+    height: 800px;
+    max-width: 800px;
+
+    object-fit: cover; /* Bild füllt den Container */
+    opacity: 0;
+    animation: fadeIn 3s ease-in-out forwards;
+    z-index: -1; /* Hintergrundbild bleibt hinter dem Text */
+    margin: 0 auto;
+    
+  }
+  
+  .content {
+    position: relative;
+    z-index: 2; /* Der Text bleibt über dem Bild */
+    background: rgba(0, 0, 0, 0); /* Optional: dunkler Hintergrund für bessere Lesbarkeit */
+    padding: 20px;
+    border-radius: 10px;
+    animation: slideIn 3s ease-in-out forwards;
+    top:-25rem;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideIn {
+    from {
+      opacity: 0;
+      left: -800px;
+    }
+    to {
+      opacity: 1;
+      left: 0;
+    }
+  }
+  
+
+.content h1{
+    position: relative;
+    max-width: 100%;
+    top: 10%;
+    margin: 5px;
+    padding: 0;
+    font-size: 50px;
+    color: orange;
+    text-shadow: 5px 5px wheat;
+}
+
+.content p{
+    position: relative;
+    max-width: 100%;
+    margin: 5px;
+    margin-top: 30px;
+    padding: 0;
+    color: white;
+  
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2em;
+  color: white;
+  margin: 5px;
+}
+
+h1, h2, h3, li{
+  color:orange;
+  margin: 5px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+
+}
+h1{
+  font-family: 'Zen Dots', sans-serif;
+  line-height: 2em;
+}
+
+h2, h3, li{
+  font-family: 'Orbitron', sans-serif;
+}
+
+section{
+  position: relative;
+  width: 80%;
+  height: fit-content;
+  text-align: left;
+  background: rgba(253, 253, 253, 0.05); /* Schwarz mit 95% Transparenz */
+  backdrop-filter: blur(10px); /* Weicher Blur-Effekt */
+  padding: 20px;
+  border-radius: 12px;
+  margin: auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Leichter Schatten für mehr Tiefe */
+}
+
+.flex, .flex0, .flex1{
+  margin-bottom: 30px;
+}
+
+.flex{
+  height: 200px;
+  display: flex;
+  height: fit-content;
+  flex-direction: row;
+}
+.animation{
+  position:relative;
+  display: flex;
+  flex-direction: row;
+  height: fit-content;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 20rem;
+
+}
+.icon{
+  position: relative;
+  display: block;
+  height: fit-content;
+  width: 20%;
+  margin: 0 auto;
+}
+
+.aboutImg{
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+}
+
+.lazy-section {
+  width: 100%;   /* Stellt sicher, dass der Inhalt nicht zu schmal oder breit ist */
+  margin: 0 auto; /* Zentriert den Container */
+  box-sizing: border-box; /* Verhindert, dass Padding die Breite verändert */
+}
+
+
+@media screen and (max-width: 600px) {
+
+  .background-img{
+    width: 400px;
+    height: 400px;
+  }
+
+  .content h1{
+    font-size: 32px;
+    text-shadow: 2px 2px wheat;
+  }
+
+  .content{
+    top: -10rem;
+  }
+}
+
+.title{
+  font-size: large;
+}
+
+.flex{
+  flex-direction: column;
+}
+
+@media screen and (max-width: 400px) {
+  .background-img{
+    width: 300px;
+    height: 300px;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideIn {
+    from {
+      opacity: 0;
+      left: 0;
+    }
+    to {
+      opacity: 1;
+      left: 0;
+    }
+  }
+  
+.animation{
+  flex-direction: column;
+  margin-top: 50px;
+}
+
+section{
+  width: 95%;;
+}
+}

@@ -1,0 +1,10 @@
+.parallax-container {
+    position: relative; /* Sollte nicht static sein */
+    height: 100vh; /* Oder eine andere feste Höhe */
+   
+    overflow: hidden;
+  }
+  
+.react-parallax{
+    width: 100%;
+}

@@ -1,0 +1,53 @@
+@media print {
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    color: black;
+    background: white;
+    margin: 0;
+    padding: 0;
+  }
+
+  header, nav, footer, .sidebar, .ads, .menu, .no-print {
+    display: none;
+  }
+
+  main, .content, .printable {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+  }
+
+  p, ul, ol, table {
+    page-break-inside: avoid;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  a[href]:after {
+    content: " (" attr(href) ")";
+    font-size: 10pt;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    page-break-inside: avoid;
+  }
+}
