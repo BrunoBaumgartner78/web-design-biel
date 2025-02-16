@@ -3,10 +3,10 @@ import React from 'react';
 import CookieBanner from '@/src/app/components/cookieBanner';
 import Menu from '@/app/components/menu';
 import PhotoCarousel0 from '@/app/components/photoCaruselA';
-import '../../src/app/styles/global.css';
-import '../../src/app/styles/home.css';
-import '../../src/app/styles/about-us.css'; // Stelle sicher, dass du eine CSS-Datei für das Styling hast
-import '../../src/app/styles/print.css';
+import '../src/app/styles/global.css';
+import '../src/app/styles/home.css';
+import '../src/app/styles/about-us.css'; // Stelle sicher, dass du eine CSS-Datei für das Styling hast
+import '../src/app/styles/print.css';
 
 const UXStrategy = () => {
   return (

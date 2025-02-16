@@ -1,9 +1,9 @@
 import React from "react";
-import '../../src/app/styles/home.css';
-import '../../src/app/styles/book.css';
+import '../src/app/styles/home.css';
+import '../src/app/styles/book.css';
 import Menu from "@/app/components/menu";
 import CookieBanner from "@/app/components/cookieBanner";
-import '../../src/app/styles/print.css';
+import '../src/app/styles/print.css';
 
 const books = [
   {

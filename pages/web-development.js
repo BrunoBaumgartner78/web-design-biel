@@ -3,9 +3,9 @@ import React from 'react';
 import CookieBanner from '../src/app/components/cookieBanner';
 import Menu from '@/app/components/menu';
 import PhotoCarousel0 from '@/app/components/photoCaruselA';
-import '../../src/app/styles/globals.css';
-import '../../src/app/styles/home.css';
-import '../../src/app/styles/print.css';
+import '../src/app/styles/globals.css';
+import '../src/app/styles/home.css';
+import '../src/app/styles/print.css';
 
 const WebDevelopmentServices = () => {
   return (
