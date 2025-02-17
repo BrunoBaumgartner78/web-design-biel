@@ -4,6 +4,7 @@
     gap: 20px;
     padding: 20px;
     justify-content: center;
+    z-index: 9;
   }
   
   .pricing-card {

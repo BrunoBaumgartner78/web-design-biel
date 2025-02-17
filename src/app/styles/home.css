@@ -13,6 +13,7 @@
     text-align: center;
     color: white;
     overflow: hidden;
+    z-index: 1;
    
   }
   

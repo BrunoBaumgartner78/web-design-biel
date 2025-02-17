@@ -5,10 +5,11 @@ import Menu from "@/app/components/menu";
 
 const AGB = () => {
   return (
+    <main>
     <div className="agb-container">
       <Menu />
       <div className="agb-content">
-        <h1>Allgemeine Geschäftsbedingungen (AGB)</h1>
+        <h1>Allgemeine Geschäfts- Bedingungen (AGB)</h1>
         <p>Stand: Februar 2025</p>
         
         <h2>1. Geltungsbereich</h2>
@@ -42,6 +43,7 @@ const AGB = () => {
         <p>Bei Fragen kontaktieren Sie uns unter <Link href="/contact">Kontakt</Link>.</p>
       </div>
     </div>
+    </main>
   );
 };
 

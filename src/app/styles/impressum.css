@@ -3,31 +3,49 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
-    color: #333;
+    background-color: #101010;
+    color: #ececec;
     transition: background-color 0.3s, color 0.3s;
   }
+
+  main{
+    margin:0;
+    top: 0;
+  }
+
+  .impressum-page{
+    position: relative;
+    top: 40px
+
+  }
   
+  .impressum-content{
+    margin:0;
+    top:0;
+  }
   .container {
     max-width: 800px;
     margin: 50px auto;
     padding: 20px;
-    background: white;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: rgb(5, 5, 5);
+    box-shadow: 0 4px 8px rgba(10, 10, 10, 0.1);
     border-radius: 8px;
   }
   
   h1 {
+    font-size: 2.5em;
+    color: #1a73e8;
     text-align: center;
-    color: #444;
+    margin-bottom: 20px;
+   
   }
   
   p {
-    margin: 10px 0;
+    margin: 10px;
   }
   
   strong {
-    color: #222;
+    color: #e1e1e1;
   }
   
   @media (prefers-color-scheme: dark) {
@@ -36,7 +54,7 @@ body {
       color: #ddd;
     }
     .container {
-      background: #1e1e1e;
+      background: #121212;
       color: #ddd;
     }
     h1, strong {
