@@ -14,7 +14,7 @@ export const metadata = {
     url: "https://www.bellu.ch",
     images: [
       {
-        url: "https://www.bellu.ch/public/assets/laptop.png",
+        url: "https://www.bellu.ch/assets/laptop.png",
         width: 800,
         height: 600,
         alt: "Baumgartner Development Titelbild",
