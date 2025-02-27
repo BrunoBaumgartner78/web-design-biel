@@ -1,9 +1,10 @@
 import GoogleAnalytics from "./components/GoogleAnalytics";
 import Menu from "./components/menu"; // Falls du eine Navbar hast
+import Head from "./head";
 import "@/app/styles/global.css"; // Falls du globale Styles hast
 
 export const metadata = {
-  title: "Baumgartner Webdesign Development Bern",
+  title: "Baumgartner Webdesign Development Biel",
   description: "Webentwicklung und digitale Lösungen von Baumgartner Development.",
   keywords: "Webentwicklung, digitale Lösungen, Baumgartner, Webdesign, JavaScript, Next.js, React.js, Biel",
   author: "Bruno Baumgartner",
@@ -36,6 +37,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="de">
+     <Head /> 
       <body>
         <GoogleAnalytics />
         <Menu /> {/* Menü einfügen */}
