@@ -63,7 +63,7 @@ export default function Page() {
 <p>Individuelle Lösungen: Wir hören zu und entwickeln maßgeschneiderte Websites, die genau zu Ihrem Unternehmen passen.</p>
 <p>Modernes Design: Wir setzen auf ansprechende und zeitgemäße Designs, die Ihre Marke im besten Licht präsentieren.</p>
 <p>Benutzerfreundlichkeit: Unsere Websites bieten eine intuitive Navigation und sind sowohl für Desktop- als auch für mobile Geräte optimiert.</p>
-<p>SEO-Optimierung: Jede Website wird so gestaltet, dass sie in Suchmaschinen wie Google besser gefunden wird – speziell für die Region Biel.</p>
+<p>SEO-Optimierung: Jede Website wird so gestaltet, dass sie in Suchmaschinen wie Google besser gefunden wird – speziell für Biel.</p>
 </div>
 </div>
 <h2>Unser Fokus auf Biel</h2>
@@ -88,11 +88,11 @@ Integration moderner Tools und Funktionen
 
 <div className="flex">
 <div>
-<p>Unser Team kombiniert Kreativität, technisches Know-how und ein tiefes Verständnis für die Online-Welt, um Websites zu schaffen, die begeistern und Ergebnisse liefern. Kunden in Bern und der ganzen Schweiz vertrauen auf unsere Expertise.</p>
+<p>Unser Team kombiniert Kreativität, technisches Know-how und ein tiefes Verständnis für die Online-Welt, um Websites zu schaffen, die begeistern und Ergebnisse liefern. Kunden in Biel und der ganzen Schweiz vertrauen auf unsere Expertise.</p>
 
 <p>Lassen Sie uns gemeinsam Ihre Vision umsetzen!</p>
 
-<p>Kontaktieren Sie uns noch heute für ein unverbindliches Beratungsgespräch. Gemeinsam entwickeln wir eine Website, die Ihr Unternehmen in Bern und darüber hinaus erfolgreich präsentiert.</p>
+<p>Kontaktieren Sie uns noch heute für ein unverbindliches Beratungsgespräch. Gemeinsam entwickeln wir eine Website, die Ihr Unternehmen in Biel und darüber hinaus erfolgreich präsentiert.</p>
 
 <p>Baumgartner Development – Ihr Experte für Webdesign in Biel.</p>
 </div>
@@ -134,7 +134,7 @@ Integration moderner Tools und Funktionen
         <h1>Unsere Webdesign- Services in der Region Biel</h1>
        
         <p>
-Wir bieten Ihnen maßgeschneiderte Webdesign-Lösungen in der Region Biel, die Ihre Marke stärken und Ihre Ziele verwirklichen. Als Experten für modernes und funktionales Webdesign wissen wir, wie wichtig ein professioneller Internetauftritt für den Erfolg Ihres Unternehmens ist. </p>
+Wir bieten Ihnen maßgeschneiderte Webdesign-Lösungen in Biel, die Ihre Marke stärken und Ihre Ziele verwirklichen. Als Experten für modernes und funktionales Webdesign wissen wir, wie wichtig ein professioneller Internetauftritt für den Erfolg Ihres Unternehmens ist. </p>
 
 <h2>
 Unsere Leistungen im Bereich Webdesign für Biel und Umgebung
@@ -143,7 +143,7 @@ Unsere Leistungen im Bereich Webdesign für Biel und Umgebung
 1. Individuelles Webdesign
 </p>
 <p>
-Keine Website gleicht der anderen. Wir entwickeln Designs, die Ihre Marke perfekt repräsentieren und gleichzeitig auf die Anforderungen Ihrer Zielgruppe in der Region Biel abgestimmt sind.
+Keine Website gleicht der anderen. Wir entwickeln Designs, die Ihre Marke perfekt repräsentieren und gleichzeitig auf die Anforderungen Ihrer Zielgruppe in  Biel abgestimmt sind.
 </p>
 <p>
 2. Mobile-Optimierung
@@ -155,7 +155,7 @@ Ein Großteil der Website-Besucher nutzt heute mobile Endgeräte. Wir stellen si
 3. Suchmaschinenoptimierung (SEO)
 </p>
 <p>
-Damit Sie in der Region Biel gefunden werden, legen wir großen Wert auf SEO. Mit gezielten Maßnahmen verbessern wir Ihre Sichtbarkeit und sorgen für eine Top-Platzierung in Suchmaschinen.
+Damit Sie in Biel gefunden werden, legen wir großen Wert auf SEO. Mit gezielten Maßnahmen verbessern wir Ihre Sichtbarkeit und sorgen für eine Top-Platzierung in Suchmaschinen.
 </p>
 <p>
 4. Benutzerfreundlichkeit (UX/UI)
@@ -177,7 +177,7 @@ Auch nach dem Launch Ihrer Website stehen wir Ihnen zur Seite. Wir kümmern uns 
 Vorteile unserer Webdesign- Services in Biel
 </h2>
 <p>
-Lokale Expertise: Wir verstehen die spezifischen Anforderungen und Zielgruppen in der Region Biel.
+Lokale Expertise: Wir verstehen die spezifischen Anforderungen und Zielgruppen in Biel.
 </p>
 <p>
 Kreativität: Unsere Designs heben Ihre Marke von der Konkurrenz ab.
@@ -194,13 +194,13 @@ Persönliche Betreuung: Wir begleiten Sie während des gesamten Projekts und bie
   <div>
 <p>
 
-Wir sind Ihr zuverlässiger Partner für professionelles Webdesign in der Region Biel. Ob kleine Unternehmen, Start-ups oder größere Organisationen – wir bieten für jeden Kunden individuelle Lösungen.
+Wir sind Ihr zuverlässiger Partner für professionelles Webdesign in Biel. Ob kleine Unternehmen, Start-ups oder größere Organisationen – wir bieten für jeden Kunden individuelle Lösungen.
 </p>
 <p>
 Webdesign für Biel: Ihre Vorteile auf einen Blick
 </p>
 <p>
-Höhere Sichtbarkeit in der Region Biel durch SEO
+Höhere Sichtbarkeit in Biel durch SEO
 </p>
 <p>
 Professionelles und modernes Design
@@ -218,7 +218,7 @@ Langfristiger Support und Beratung
 
 <h2>Bereit für eine neue Website?</h2>
 <p>
-Lassen Sie uns gemeinsam Ihre digitale Präsenz in der Region Biel gestalten. Kontaktieren Sie uns noch heute, um mehr über unsere Webdesign-Services zu erfahren und ein unverbindliches Angebot zu erhalten.
+Lassen Sie uns gemeinsam Ihre digitale Präsenz in Biel gestalten. Kontaktieren Sie uns noch heute, um mehr über unsere Webdesign-Services zu erfahren und ein unverbindliches Angebot zu erhalten.
 </p>
 <p>
 Baumgartner Development – Ihr Spezialist für Webdesign in Biel und Umgebung.</p>
@@ -232,7 +232,7 @@ Baumgartner Development – Ihr Spezialist für Webdesign in Biel und Umgebung.<
       <div className="flex">
         <div>
       <p>
-Um Ihnen als Unternehmen in der Region Biel eine moderne, benutzerfreundliche und effektive Website zu bieten, setzen wir auf die neuesten Webdesign-Technologien. Unsere Expertise in Webentwicklung und Responsive Design garantiert Ihnen eine Website, die nicht nur gut aussieht, sondern auch reibungslos funktioniert und Ihre Zielgruppe anspricht.
+Um Ihnen als Unternehmen in Biel eine moderne, benutzerfreundliche und effektive Website zu bieten, setzen wir auf die neuesten Webdesign-Technologien. Unsere Expertise in Webentwicklung und Responsive Design garantiert Ihnen eine Website, die nicht nur gut aussieht, sondern auch reibungslos funktioniert und Ihre Zielgruppe anspricht.
 </p>
 <h2>
 Unsere Technologien im Webdesign
@@ -254,7 +254,7 @@ Für dynamische und interaktive Benutzererfahrungen setzen wir JavaScript sowie 
 3. Content-Management-Systeme (CMS)
 </h3>
 <p>
-Wir arbeiten mit führenden CMS-Plattformen wie WordPress, Sanity, oder Strapi, um Ihnen eine einfache Verwaltung Ihrer Inhalte zu ermöglichen. Besonders für Unternehmen in der Region Bern sind diese Systeme ideal, da sie eine schnelle und effektive Pflege der Website erlauben.
+Wir arbeiten mit führenden CMS-Plattformen wie WordPress, Sanity, oder Strapi, um Ihnen eine einfache Verwaltung Ihrer Inhalte zu ermöglichen. Besonders für Unternehmen in Biel sind diese Systeme ideal, da sie eine schnelle und effektive Pflege der Website erlauben.
 </p>
 <h3>
 4. Responsive Design
@@ -266,7 +266,7 @@ Ihre Website wird auf allen Geräten optimal angezeigt – vom Desktop bis zum S
 5. SEO-Tools und Optimierungen
 </h3>
 <p>
-Damit Ihre Website in Suchmaschinen gefunden wird, setzen wir auf Technologien wie Google Lighthouse, Schema Markup und modernste SEO-Strategien. Besonders in der Region Bern sorgen wir dafür, dass Sie regional sichtbar bleiben.
+Damit Ihre Website in Suchmaschinen gefunden wird, setzen wir auf Technologien wie Google Lighthouse, Schema Markup und modernste SEO-Strategien. Besonders in Biel sorgen wir dafür, dass Sie regional sichtbar bleiben.
 </p>
 <h3>
 6. Datenbanken und Back-End-Technologien
@@ -300,16 +300,16 @@ Flexibilität: Ob kleine Anpassungen oder große Erweiterungen – unsere Techno
 </ul>
 <img src="/assets/computerDesk.webP" alt="computer" className="aboutImg" />
 <h2>
-Ihre Vorteile mit uns als Partner in der Region Biel
+Ihre Vorteile mit uns als Partner in Biel
 </h2>
 <p>
-Wir sind stolz darauf, Unternehmen in der Region Biel mit fortschrittlichem Webdesign und modernsten Technologien zu unterstützen. Mit uns erhalten Sie nicht nur eine Website, sondern eine digitale Lösung, die perfekt auf Ihre Bedürfnisse zugeschnitten ist.
+Wir sind stolz darauf, Unternehmen in Biel mit fortschrittlichem Webdesign und modernsten Technologien zu unterstützen. Mit uns erhalten Sie nicht nur eine Website, sondern eine digitale Lösung, die perfekt auf Ihre Bedürfnisse zugeschnitten ist.
 </p>
 <p>
 Bereit, Ihre Website auf das nächste Level zu bringen?
 </p>
 <p>
-Kontaktieren Sie uns noch heute und erfahren Sie, wie wir mit unseren Webdesign-Technologien Ihre Online-Präsenz in der Region Biel stärken können.
+Kontaktieren Sie uns noch heute und erfahren Sie, wie wir mit unseren Webdesign-Technologien Ihre Online-Präsenz in Biel stärken können.
 </p>
 <p>
 Baumgartner Development – Webdesign in Biel mit modernsten Technologien.</p>
@@ -319,12 +319,12 @@ Baumgartner Development – Webdesign in Biel mit modernsten Technologien.</p>
       
       <section id="technologies" style={{ height: 'fit-content' }}>
      
-      <h1>Technologien für modernes Webdesign – Ihr Partner in der Region Biel</h1>
+      <h1>Technologien für modernes Webdesign – Ihr Partner in Biel</h1>
       <div className="gradient-line"></div> {/* Querlinie mit Gradient */}
       <div className="flex">
         <div>
       <p>
-Um Ihnen als Unternehmen in der Region Bern eine moderne, benutzerfreundliche und effektive Website zu bieten, setzen wir auf die neuesten Webdesign-Technologien. Unsere Expertise in Webentwicklung und Responsive Design garantiert Ihnen eine Website, die nicht nur gut aussieht, sondern auch reibungslos funktioniert und Ihre Zielgruppe anspricht.
+Um Ihnen als Unternehmen in Biel eine moderne, benutzerfreundliche und effektive Website zu bieten, setzen wir auf die neuesten Webdesign-Technologien. Unsere Expertise in Webentwicklung und Responsive Design garantiert Ihnen eine Website, die nicht nur gut aussieht, sondern auch reibungslos funktioniert und Ihre Zielgruppe anspricht.
 </p>
 <h2>
 Unsere Technologien im Webdesign
@@ -346,7 +346,7 @@ Für dynamische und interaktive Benutzererfahrungen setzen wir JavaScript sowie 
 3. Content-Management-Systeme (CMS)
 </h3>
 <p>
-Wir arbeiten mit führenden CMS-Plattformen wie WordPress, Sanity, oder Strapi, um Ihnen eine einfache Verwaltung Ihrer Inhalte zu ermöglichen. Besonders für Unternehmen in der Region Bern sind diese Systeme ideal, da sie eine schnelle und effektive Pflege der Website erlauben.
+Wir arbeiten mit führenden CMS-Plattformen wie WordPress, Sanity, oder Strapi, um Ihnen eine einfache Verwaltung Ihrer Inhalte zu ermöglichen. Besonders für Unternehmen in Biel sind diese Systeme ideal, da sie eine schnelle und effektive Pflege der Website erlauben.
 </p>
 <h3>
 4. Responsive Design
@@ -392,7 +392,7 @@ Flexibilität: Ob kleine Anpassungen oder große Erweiterungen – unsere Techno
 </li>
 </ul>
 <h2>
-Ihre Vorteile mit uns als Partner in der Region Biel
+Ihre Vorteile mit uns als Partner in Biel
 </h2>
 <div className="gradient-line"></div> {/* Querlinie mit Gradient */}
 <p>

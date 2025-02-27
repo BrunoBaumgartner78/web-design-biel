@@ -26,7 +26,7 @@ const AboutUs = () => {
 
             <h2>Unsere Mission: Ihr Erfolg im digitalen Raum</h2>
             <p>
-              In der heutigen digitalen Welt ist eine professionelle Online-Präsenz unverzichtbar. Unsere Mission ist es, Unternehmen in Bern und Umgebung mit innovativen Webdesigns zu helfen, ihre Zielgruppen zu erreichen.
+              In der heutigen digitalen Welt ist eine professionelle Online-Präsenz unverzichtbar. Unsere Mission ist es, Unternehmen in Biel und Umgebung mit innovativen Webdesigns zu helfen, ihre Zielgruppen zu erreichen.
             </p>
           </div>
           
@@ -47,7 +47,7 @@ const AboutUs = () => {
 
         <h2>Unser Fokus auf Biel</h2>
         <p>
-          Als lokales Unternehmen verstehen wir die Bedürfnisse der Firmen in Bern. Ob kleine Firma oder etabliertes Unternehmen – wir helfen Ihnen, sich erfolgreich zu positionieren.
+          Als lokales Unternehmen verstehen wir die Bedürfnisse der Firmen in der Region Biel. Ob kleine Firma oder etabliertes Unternehmen – wir helfen Ihnen, sich erfolgreich zu positionieren.
         </p>
 
         <h3>Unsere Leistungen</h3>
