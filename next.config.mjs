@@ -1,21 +1,20 @@
 /** @type {import('next').NextConfig} */
-
 const nextConfig = {
   async redirects() {
     return [
       {
-        source: "/:path*",
+        source: "/",
         has: [
           {
             type: "host",
             value: "bellu.ch",
           },
         ],
-        destination: "https://www.bellu.ch/:path*",
+        destination: "https://www.bellu.ch",
         permanent: true,
       },
     ];
   },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
