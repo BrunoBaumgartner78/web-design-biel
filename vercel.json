@@ -1,10 +1,9 @@
 {
-    "redirects": [
-      {
-        "source": "https://bellu.ch/:path*",
-        "destination": "https://www.bellu.ch/:path*",
-        "permanent": true
-      }
-    ]
-  }
-  
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://www.bellu.ch/:path*",
+      "permanent": true
+    }
+  ]
+}
